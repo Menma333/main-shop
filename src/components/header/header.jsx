@@ -15,7 +15,7 @@ function Header () {
             <li><a href="#!">FASHION</a></li>
             <li><a href="#!">FAVOURITE</a></li>
             <li><a href="#!">LIFESTYLE</a></li>
-            <li><a href="#!" className='header__nav-btn'>SING UP</a></li>
+            <li><a href="#!" className='header__nav'>SING UP</a></li>
           </ul>
         </nav>
       </div>
