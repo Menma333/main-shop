@@ -1,3 +1,14 @@
 .header {
-  color: blue;
+  padding: 46px 0 56px;
 }
+
+.header__row {
+  display: flex;
+  column-gap: 30px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__logo {}
+
+.header__nav {}
